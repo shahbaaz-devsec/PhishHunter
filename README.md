@@ -467,9 +467,9 @@ Cybersecurity & Automation Engineer
 - **GitHub**: [github.com/shahbaaz-devsec](https://github.com/shahbaaz-devsec)
 - **LinkedIn**: [linkedin.com/in/mohammad-shahbaaz-ahmed-138a423bb](https://www.linkedin.com/in/mohammad-shahbaaz-ahmed-138a423bb)
 
-Currently pursuing:
-- Executive Post Graduate Certification in **Cybersecurity & Ethical Hacking** — IIT Roorkee (via Intellipaat)
-- Global MBA in **Cybersecurity Management** — SSBM Geneva (via Intellipaat)
+Educational Qualifications:
+- Executive Post Graduate Certification in **Cybersecurity & Ethical Hacking** — IIT Roorkee 
+- Global MBA in **Cybersecurity Management** — SSBM Geneva 
 
 Professional background spans backend automation, AI workflow engineering, and payroll systems integration — now transitioning into security operations with a focus on automation-augmented SOC workflows.
 
